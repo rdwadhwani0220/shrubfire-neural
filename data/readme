@@ -1,1 +1,4 @@
-MLP feed-forward network- Model 1
+Data Source of shrubfires and heathfires
+Data-1 used for ANN network
+Data-2 additional independent data that can be used in future
+Anderson, W. R., et al. (2015). A generic, empirical-based model for predicting rate of fire spread in shrublands. International Journal of Wildland Fire, 24(4), 443-460. 
